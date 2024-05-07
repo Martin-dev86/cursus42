@@ -7,3 +7,6 @@
 [submodule "Get_next_line"]
 	path = Get_next_line
 	url = https://github.com/Martin-dev86/Get_next_line.git
+[submodule "Pipex"]
+	path = Pipex
+	url = https://github.com/Martin-dev86/Pipex.git
